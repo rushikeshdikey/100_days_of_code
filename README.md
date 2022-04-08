@@ -168,13 +168,37 @@ I, Rushikesh Dikey, pledge to complete this 100 days of coding challenge.
 - <b>Day 15</b> - [Local Development Environment Setup & the Coffee Machine](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_15)
 
     What I learned:
-    - Download and install Python Locally;
-    - Download and install PyCharm for Windows:
-    - PyCharm's Features;
+    - Download and install Python Locally
+    - Download and install PyCharm for Windows
+    - PyCharm's Features
   
     Project:
     - [Coffee Machine](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_15)
 ##
+
+- <b>Day 16</b> - [OPP Concept and Coffee machine using OOP's](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_16)
+
+    What I learned:
+    - Why and How OOP
+    - How to use classes and objects
+    - Constructing objects and accessing attributes
+    - Modifying objects and calling methods
+    - Adding Python packages
+  
+    Project:
+    - [Coffee Machine using OOP's](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_16)
+##
+
+- <b>Day 17</b> - [Local Development Environment Setup & the Coffee Machine](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_17)
+
+    What I learned:
+    - How to create your own Class in Python
+    - Working with Attributes, Class Constructors and the __init__() functions
+    - Adding methods to a Class
+  
+    Project:
+    - [Quiz-Game](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_17)
+##    
 </details>
 
 
