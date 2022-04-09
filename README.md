@@ -186,19 +186,33 @@ I, Rushikesh Dikey, pledge to complete this 100 days of coding challenge.
     - Adding Python packages
   
     Project:
-    - [Coffee Machine using OOP's](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_16)
+    - [Coffee Machine using OOP](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_16)
 ##
 
-- <b>Day 17</b> - [Local Development Environment Setup & the Coffee Machine](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_17)
+- <b>Day 17</b> - [The Quiz project & OOP benefits](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_17)
 
     What I learned:
     - How to create your own Class in Python
     - Working with Attributes, Class Constructors and the __init__() functions
     - Adding methods to a Class
+    - Benefits of OOP
   
     Project:
-    - [Quiz-Game](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_17)
-##    
+    - [Quiz-Game](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_18)
+## 
+
+- <b>Day 18</b> - [Turtle & Graphical User Interface(GUI)](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_17)
+
+    What I learned:
+    - About Turtle module
+    - Importing module, Installing package
+    - Generate random RGB
+    - Extract RGB values image
+    - 
+  
+    Project:
+    - [Quiz-Game](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_18)
+## 
 </details>
 
 
