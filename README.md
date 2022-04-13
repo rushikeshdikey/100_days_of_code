@@ -198,7 +198,7 @@ I, Rushikesh Dikey, pledge to complete this 100 days of coding challenge.
     - Benefits of OOP
   
     Project:
-    - [Quiz-Game](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_18)
+    - [Quiz-Game](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_17)
 ## 
 
 - <b>Day 18</b> - [Turtle & Graphical User Interface(GUI)](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_17)
@@ -208,10 +208,9 @@ I, Rushikesh Dikey, pledge to complete this 100 days of coding challenge.
     - Importing module, Installing package
     - Generate random RGB
     - Extract RGB values image
-    - 
   
     Project:
-    - [Quiz-Game](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_18)
+    - [Turtle-Project](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_18)
 ## 
 </details>
 
