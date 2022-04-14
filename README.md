@@ -201,7 +201,7 @@ I, Rushikesh Dikey, pledge to complete this 100 days of coding challenge.
     - [Quiz-Game](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_17)
 ## 
 
-- <b>Day 18</b> - [Turtle & Graphical User Interface(GUI)](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_17)
+- <b>Day 18</b> - [Turtle & Graphical User Interface(GUI)](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_18)
 
     What I learned:
     - About Turtle module
@@ -212,6 +212,18 @@ I, Rushikesh Dikey, pledge to complete this 100 days of coding challenge.
     Project:
     - [Turtle-Project](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_18)
 ## 
+    
+- <b>Day 19</b> - [Turtle-Race-Project](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_19)
+
+    What I learned:
+    - Higher order function
+    - Event listener
+    - Object State and Instances
+    - Turtle co-ordinate system
+  
+    Project:
+    - [Turtle-Race-Project](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_19)
+##
 </details>
 
 
