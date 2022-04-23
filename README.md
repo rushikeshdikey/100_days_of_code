@@ -176,7 +176,7 @@ I, Rushikesh Dikey, pledge to complete this 100 days of coding challenge.
     - [Coffee Machine](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_15)
 ##
 
-- <b>Day 16</b> - [OPP Concept and Coffee machine using OOP's](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_16)
+- <b>Day 16</b> - [OPP Concept and Coffe~~~~e machine using OOP's](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_16)
 
     What I learned:
     - Why and How OOP
@@ -224,6 +224,16 @@ I, Rushikesh Dikey, pledge to complete this 100 days of coding challenge.
     Project:
     - [Turtle-Race-Project](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_19)
 ##
+    
+- <b>Day 20</b> - [Snake_Game](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_20)
+
+    What I learned:
+    - to build snake game
+    - Class inhertiance
+  Project:
+  - [Snake_Game](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_20)
+##
+
 </details>
 
 
