@@ -230,8 +230,9 @@ I, Rushikesh Dikey, pledge to complete this 100 days of coding challenge.
     What I learned:
     - to build snake game
     - Class inhertiance
-  Project:
-  - [Snake_Game](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_20)
+  
+    Project:
+    - [Snake_Game](https://github.com/rushikeshdikey/100_days_of_code/tree/master/day_20)
 ##
 
 </details>
